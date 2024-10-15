@@ -220,6 +220,7 @@ Helpful for early(or all) stage researchers in general
 * [Doing well in your courses by Andrej Karpathy](https://cs.stanford.edu/people/karpathy/advice.html) -- also geared towards undergrads. Super helpful!
 * [Advice for early-stage Ph.D. students by Philip Guo](https://pg.ucsd.edu/early-stage-PhD-advice.htm)
 * [Grad School: A Brief Survival Guide by Igor Gilitschenski](https://drive.google.com/file/d/1VHKTa-AQSQhXe1jw9XFysuA0lAUl58Pk/view)
+* [There is a world of possibilities with a PhD](https://www.phdpaths.co/) - Archive of PhDs and their jobs outside of academia, Career journeys and advice from PhDs in several sectors.
 
 ### Research ideas
 * [How to find innovative ideas for your project](http://llcao.net/cu-deeplearning17/lecture/lecture5_llc.pdf)
